@@ -1,3 +1,3 @@
 # jquery-grid-slider
 
-Ab jetzt responsive! Bäm!
+Geforked! BÄM!
